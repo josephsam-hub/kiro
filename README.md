@@ -68,11 +68,8 @@ This folder contains comprehensive documentation of how Kiro was authentically a
 - **Documentation**: 8 comprehensive guides
 - **Development Time**: Accelerated by 300% with Kiro
 
-## 🎬 Demo Video Content
-Our 5-minute demo video will showcase:
-1. **Product Demo** (2 mins): Live fraud detection system
-2. **Kiro Usage** (2 mins): How Kiro guided development
-3. **Planning Process** (1 min): Architecture and decision-making
+## 🎬 Demo Video Link :https://drive.google.com/drive/folders/1fZwqrAhmq2nwlxmeu355CwPqqbwaie15?usp=sharing
+ 
 
 ---
 
